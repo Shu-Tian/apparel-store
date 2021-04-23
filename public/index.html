@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="icon" href="%PUBLIC_URL%/logo.png">
+    <title>Apparel Store</title>
+
+    <script src="https://kit.fontawesome.com/be87b47add.js" crossorigin="anonymous"></script> <!-- icons-->
+  </head>
+
+  <body>
+
+    <div id="navbar"></div>
+
+    <!-- Header -->
+    <div class="container main-color">
+      <img class="header-logo" src="logo.png" alt="Logo">
+      <div class="title">APPAREL STORE</div>
+    </div>
+
+    <!-- Modal Cart Page -->
+    <div id="myCart" class="modal">
+      
+      <!-- Modal content -->
+      <div class="modal-content">
+        <p>CART</p>
+        <div class="cart-row">
+          <span class="bold cart-column cart-item">Item</span>
+          <span class="bold cart-column cart-item">Quantity</span>
+          <span class="bold cart-column cart-price">Price</span>
+        </div>
+
+        <!-- Cart items list -->
+        <div class="cart-items"></div>
+
+        <div class="cart-total">
+          <b>TOTAL</b>
+          <span class="total-price">$</span>
+        </div>
+        <button id="modal-close">CLOSE</button>
+        <button id="checkout-button">CHECKOUT</button>
+      </div>
+    </div>
+    
+    <!-- Catalog -->
+    <div class="container bg-color" id="catalog">
+      <p>ALL PRODUCTS</p>
+      <div id="card"></div>
+    </div>
+
+    <!-- Footer -->
+    <div class="container main-color" id="footer">
+      <p>CONTACT US</p>
+      apparelstore@mail.com
+      <br>
+      <div id="social"></div>
+      <br><br><br>
+      <a href="#" class="white_hover"><i class="fas fa-arrow-alt-circle-up fa-3x"></i></a>
+    </div>
+
+  </body>
+</html>
