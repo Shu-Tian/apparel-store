@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/apparel-store/static/css/main.c6388a69.chunk.css",
+    "main.js": "/apparel-store/static/js/main.a96cdd19.chunk.js",
+    "main.js.map": "/apparel-store/static/js/main.a96cdd19.chunk.js.map",
+    "runtime-main.js": "/apparel-store/static/js/runtime-main.79cac426.js",
+    "runtime-main.js.map": "/apparel-store/static/js/runtime-main.79cac426.js.map",
+    "static/js/2.3a78b804.chunk.js": "/apparel-store/static/js/2.3a78b804.chunk.js",
+    "static/js/2.3a78b804.chunk.js.map": "/apparel-store/static/js/2.3a78b804.chunk.js.map",
+    "index.html": "/apparel-store/index.html",
+    "static/css/main.c6388a69.chunk.css.map": "/apparel-store/static/css/main.c6388a69.chunk.css.map",
+    "static/js/2.3a78b804.chunk.js.LICENSE.txt": "/apparel-store/static/js/2.3a78b804.chunk.js.LICENSE.txt",
+    "static/media/blackL.423e70ce.jpg": "/apparel-store/static/media/blackL.423e70ce.jpg",
+    "static/media/blackT.72c6d11e.png": "/apparel-store/static/media/blackT.72c6d11e.png",
+    "static/media/grayL.40e0e693.png": "/apparel-store/static/media/grayL.40e0e693.png",
+    "static/media/orangeB.8d26c30b.png": "/apparel-store/static/media/orangeB.8d26c30b.png",
+    "static/media/orangeT.9bdc5ab3.png": "/apparel-store/static/media/orangeT.9bdc5ab3.png",
+    "static/media/pinkT.a1d6282a.png": "/apparel-store/static/media/pinkT.a1d6282a.png",
+    "static/media/whiteT.50de6df0.png": "/apparel-store/static/media/whiteT.50de6df0.png",
+    "static/media/yellowB.48885d5e.png": "/apparel-store/static/media/yellowB.48885d5e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79cac426.js",
+    "static/js/2.3a78b804.chunk.js",
+    "static/css/main.c6388a69.chunk.css",
+    "static/js/main.a96cdd19.chunk.js"
+  ]
+}
